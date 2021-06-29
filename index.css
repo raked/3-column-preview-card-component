@@ -10,6 +10,14 @@ body{
     font-size: 15px;
 }
 
+button{
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 25px!important;
+    border: 1px solid white;
+    padding: 5px 25px;
+}
+
 #sedans{
     background-color: hsl(31, 77%, 52%);
 }
@@ -20,4 +28,34 @@ body{
 
 #luxury{
     background-color: hsl(179, 100%, 13%);
+}
+
+#sedanbutton{
+    color: hsl(31, 77%, 52%);
+}
+
+#suvbutton{
+    color: hsl(184, 100%, 22%);
+}
+
+#luxurybutton{
+    color: hsl(179, 100%, 13%);
+}
+
+#sedanbutton:hover{
+    background-color: hsl(31, 77%, 52%);
+    color: white;
+    border: 1px solid white;
+}
+
+#suvbutton:hover{
+    background-color: hsl(184, 100%, 22%);
+    color: white;
+    border: 1px solid white;
+}
+
+#luxurybutton:hover{
+    background-color: hsl(179, 100%, 13%);
+    color: white;
+    border: 1px solid white;
 }
