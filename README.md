@@ -40,7 +40,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Bootstrap 5](https://getbootstrap.com/) - JS library
+- [Bootstrap 5](https://getbootstrap.com/) - Styling framework
 
 ### What I learned
 
